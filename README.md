@@ -95,7 +95,7 @@ The project uses only Python's built-in `csv` module and therefore does not requ
 
 ## Video Demonstration
 
-**Video Demo:** *(Add your YouTube link here)*
+**Video Demo:** [*(Link)*](https://www.youtube.com/watch?v=H8w9U7698Bs)
 
 ## Author
 
