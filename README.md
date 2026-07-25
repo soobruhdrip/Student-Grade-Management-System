@@ -48,7 +48,7 @@ Student-Grade-Management-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-grade-management-system.git
+git clone https://github.com/soobruhdrip/student-grade-management-system.git
 ```
 
 Move into the project directory:
